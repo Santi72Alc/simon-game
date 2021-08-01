@@ -1,5 +1,13 @@
-# Simon Game
+# Simon Proyect 
+2021/07/29  Santiago San Román Játiva
 
-This is a simon game. The code goes along with my Simon game tutorial on YouTube.
 
-Do you want to learn more about full-stack web development? Check out the completely free curriculum at www.freecodecamp.org. Anyone can learn to code for free!
+Este proyecto está basado en un video de youtube de 'freeCodeCamp.org'.
+https://youtu.be/n_ec3eowFLQ
+
+He mantenido el HTML y CSS según su codificación.
+
+El código javascript está inicialmente seguido según el video.
+Se han realizado algunos cambios básicos por gusto de uso personal.
+
+Gracias al instructor Beau Carnes @CarnesBeau
