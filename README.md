@@ -11,3 +11,7 @@ El código javascript está inicialmente seguido según el video.
 Se han realizado algunos cambios básicos por gusto de uso personal.
 
 Gracias al instructor Beau Carnes @CarnesBeau
+
+
+
+Con él he aprendido un poco mas a leer y modificar los elementos del DOM mediante javascript según necesidades.
